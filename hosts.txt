@@ -1,0 +1,5 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+#以下的host只能访问萌幻之乡所属网站
+#本机hosts已经备份至hosts.bak，如有异常请自己修改或合并
+198.74.110.166 www.hmoe11.net
